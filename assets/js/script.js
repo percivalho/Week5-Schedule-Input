@@ -102,6 +102,7 @@ function appendEntries(){
     var textarea = $("<textarea>");
     textarea.addClass("col-8 col-md-10 description");
     textarea.attr("rows", "3");
+    textarea.attr("placeholder", "No event has been scheduled yet");
 
     // retrieve localStorage
     if (localStorage.getItem(hour.id) != null){
