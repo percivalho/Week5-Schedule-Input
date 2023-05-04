@@ -55,7 +55,7 @@ The Task input textareas are color-coded, with grey for past events, red for pre
 
 ![Past Present Future](assets/images/textareas.png)
 
-on clicking the save button after input the task, a message is displayed out.
+on clicking the save button after input the task, a message is displayed out and faded out in 3 seconds.
 
 ![Saved Message](assets/images/message.png)
 
