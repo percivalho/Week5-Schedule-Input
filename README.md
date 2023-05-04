@@ -60,6 +60,7 @@ on clicking the save button after input the task, a message is displayed out.
 ![Saved Message](assets/images/message.png)
 
 On Refresh the page, start page is shown with saved entries
+
 ![Saved Entries](assets/images/start2.png)
 
 
@@ -98,10 +99,10 @@ Testing done on:
 ## Resources
 
 Link to Deployed Website:
-https://percivalho.github.io/Week4-Coding-Quiz-Challenge/
+https://percivalho.github.io/Week5-Schedule-Input/
 
 Link to GitHub repo:
-https://github.com/percivalho/Week4-Coding-Quiz-Challenge.git
+https://github.com/percivalho/Week5-Schedule-Input.git
 
 
 ## License 
